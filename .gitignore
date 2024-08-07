@@ -2,3 +2,4 @@
 MANIFEST
 dist
 .tox
+django_messages.egg-info
