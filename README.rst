@@ -84,3 +84,4 @@ django-notification which has the same name.
 
 
 
+补充一下README
